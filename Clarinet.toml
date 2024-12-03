@@ -1,0 +1,29 @@
+[project]
+name = 'Energy-Microgrid-Management'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.carbon-offset]
+path = 'contracts/carbon-offset.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.investment]
+path = 'contracts/investment.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.load-balancing]
+path = 'contracts/load-balancing.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
