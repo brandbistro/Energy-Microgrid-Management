@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6bb4f89-f4ed-4c68-b03d-7e5a466888cb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/contracts/load-balancing.clar" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/load-balancing.clar" afterDir="false" />
-    </list>
+    <list default="true" id="a6bb4f89-f4ed-4c68-b03d-7e5a466888cb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733252702347</updated>
-      <workItem from="1733252703537" duration="432000" />
+      <workItem from="1733252703537" duration="666000" />
     </task>
     <servers />
   </component>
